@@ -5,6 +5,7 @@ public class Tuner implements Device {
 	public void on() {
 		// TODO Auto-generated method stub
 
+
 	}
 
 	@Override
@@ -20,6 +21,5 @@ public class Tuner implements Device {
 	}
 
 	public void setFrequency() {
-	}
+	}}
 
-}

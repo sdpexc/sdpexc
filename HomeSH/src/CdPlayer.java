@@ -5,6 +5,7 @@ public class CdPlayer implements Device {
 	public void on() {
 		// TODO Auto-generated method stub
 
+
 	}
 
 	@Override
@@ -24,4 +25,9 @@ public class CdPlayer implements Device {
 
 	public void pause() {
 	};
-}
+
+		
+	}
+
+
+		
