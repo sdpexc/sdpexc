@@ -1,5 +1,5 @@
 
-public class DvdPlayer implements Device {
+public class Projector implements Device {
 
 	@Override
 	public void on() {
@@ -13,15 +13,10 @@ public class DvdPlayer implements Device {
 
 	}
 
-	public void eject() {
+	public void wideScreenMode() {
 	};
 
-	public void play(String dvd) {
+	public void tvMode() {
 	};
 
-	public void stop() {
-	};
-
-	public void pause() {
-	};
 }
